@@ -30,5 +30,5 @@ public class Player {
     private Double crdr; // red cards
     private Double xg; // expected goals
     private Double xag; // expexted assist and goals
-    private String teams;
+    private String team;
 }
